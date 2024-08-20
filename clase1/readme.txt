@@ -6,3 +6,4 @@ Integrantes del grupo:
 5. Manolo Bassot
 6. Matias Garcia
 7. Montenegro Alexander
+8. Juanito
